@@ -1,0 +1,39 @@
+[33mcommit 5a4cc225967b501480977240c9f17245f5ec3a00[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: eyob sisay <eyobsisay37@gmail.com>
+Date:   Sat Aug 27 06:16:51 2022 +0300
+
+    Delete 0x01-git directory
+
+ delete mode 100644 0x01-git/.up_to_date.swn
+ delete mode 100644 0x01-git/.up_to_date.swo
+ delete mode 100644 0x01-git/.up_to_date.swp
+ delete mode 100644 0x01-git/README.md
+ delete mode 100644 0x01-git/c/c_is_fun.c
+ delete mode 100644 0x01-git/js/index.js
+ delete mode 100644 0x01-git/js/main.js
+ delete mode 100644 0x01-git/up_to_date
+
+[33mcommit eecebe6c7be57528b9265512cb7e344e74eae210[m
+Author: eyob sisay <eyobsisay37@gmail.com>
+Date:   Sat Aug 27 06:16:16 2022 +0300
+
+    Delete 0x01-git/bash directory
+
+ delete mode 100644 0x01-git/bash/.alx.swp
+ delete mode 100644 0x01-git/bash/.school.swn
+ delete mode 100644 0x01-git/bash/.school.swo
+ delete mode 100644 0x01-git/bash/.school.swp
+ delete mode 100644 0x01-git/bash/alx
+ delete mode 100644 0x01-git/bash/school
+
+[33mcommit 81707c76f7d026a626e5c493abb6e4a951615fba[m
+Author: root <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 07:52:33 2022 -0800
+
+    rearrange
+
+ delete mode 100644 bash/alx
+ delete mode 100644 bash/school
+ delete mode 100644 c/c_is_func.c
+ delete mode 100644 js/index.js
+ delete mode 100644 js/main.js

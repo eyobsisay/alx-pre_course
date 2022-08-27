@@ -1,0 +1,108 @@
+[33mcommit 5a4cc225967b501480977240c9f17245f5ec3a00[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: eyob sisay <eyobsisay37@gmail.com>
+Date:   Sat Aug 27 06:16:51 2022 +0300
+
+    Delete 0x01-git directory
+
+[33mcommit eecebe6c7be57528b9265512cb7e344e74eae210[m
+Author: eyob sisay <eyobsisay37@gmail.com>
+Date:   Sat Aug 27 06:16:16 2022 +0300
+
+    Delete 0x01-git/bash directory
+
+[33mcommit 4e488f392bdf12f70f707e836df4428fce0b7250[m
+Author: eyobsisay <eyobsisay37@gmail.com>
+Date:   Sat Aug 27 06:14:48 2022 +0300
+
+    Starting to code today, so cool
+
+[33mcommit 35aaea41740bf7fa4581b65b79024b4e90191808[m
+Author: root <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 11:04:27 2022 -0800
+
+    How to be up to  to date in git
+
+[33mcommit 24df75b872d3c665066f42587689f1bb42915933[m
+Author: root <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 10:59:15 2022 -0800
+
+    How to be up to  to date in git
+
+[33mcommit 56a8d5e175b86616dc096952a1d31acc635716e0[m
+Author: root <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 08:53:47 2022 -0800
+
+    How to be up to dto date in git
+
+[33mcommit 8e173f0cd1d5258f359656b355ef64d88f349179[m
+Author: eyob sisay <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 19:29:57 2022 +0300
+
+    Update README.md
+
+[33mcommit 9e90f7b3cabd707f347250709c69b2f6c7b5226e[m
+Author: eyob sisay <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 19:29:28 2022 +0300
+
+    Update README.md
+
+[33mcommit 0928aace0e14451833d8fa2c3aaa6058d4a3dc27[m
+Author: root <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 07:59:50 2022 -0800
+
+    d
+
+[33mcommit 4c55e7fb88314d86aff484a13ea13191869276a0[m
+Author: root <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 07:58:20 2022 -0800
+
+    add file
+
+[33mcommit 81707c76f7d026a626e5c493abb6e4a951615fba[m
+Author: root <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 07:52:33 2022 -0800
+
+    rearrange
+
+[33mcommit 7aa7224e29547155d7c655dcf59af73232c800e6[m
+Author: root <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 07:48:20 2022 -0800
+
+    add js
+
+[33mcommit 2e4c4c9ce63a81e909954f7af8ee870fae77e429[m
+Author: root <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 07:46:39 2022 -0800
+
+    add c
+
+[33mcommit 95dd6133d45834d904da1bb7ca0cf3bc81de2a2e[m
+Merge: 9adbbc0 614c88c
+Author: root <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 07:42:20 2022 -0800
+
+    Merge branch 'master' of https://github.com/eyobsisay/alx-pre_course
+
+[33mcommit 9adbbc0449d1deb65ad982a9f2cf1e61f4931a12[m
+Author: root <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 07:40:19 2022 -0800
+
+    fix bug
+
+[33mcommit 614c88c3941eb80b45871e510544f2f80986fb8f[m
+Author: root <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 06:16:31 2022 -0800
+
+    start my coding today
+
+[33mcommit 034f57d23bd013e5489d1ccc1ea366a27be28933[m
+Author: root <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 06:00:52 2022 -0800
+
+    readme file created in 0x01-git folder
+
+[33mcommit fa9f39ea8a8bd85683025d2ad35299017e8f8be6[m
+Author: root <eyobsisay37@gmail.com>
+Date:   Mon Feb 21 05:56:09 2022 -0800
+
+    my first commit
